@@ -1,3 +1,0 @@
-C:/Users/bechir/Desktop/Dev/projects/SDL_sort/cmake-build-debug/CMakeFiles/SDL_sort.dir
-C:/Users/bechir/Desktop/Dev/projects/SDL_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/bechir/Desktop/Dev/projects/SDL_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

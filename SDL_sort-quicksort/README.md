@@ -11,3 +11,7 @@ here is an unsorted initial list
 
 and here is a sorted final list
 ![quicksort_final](images/qs_final.png)
+
+
+
+![a](images/a.mp4)
