@@ -6,8 +6,8 @@ obj = $(patsubst src/%.cpp, obj/%.o, $(src))
 headers = $(wildcard include/*.h)
 
 
-bubble_sort: print $(obj)
-	g++ $(CFLAGS)  $(obj) -o bubble_sort
+quicksort: print $(obj)
+	g++ $(CFLAGS)  $(obj) -o quicksort
 
 print:
 	$(info	source files: $(src))
@@ -22,5 +22,5 @@ obj:
 	mkdir -p $@
 
 clean:
-	rm obj/* bubble_sort
-all: bubble_sort
+	rm obj/* quicksort
+all: quicksort
